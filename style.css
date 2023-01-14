@@ -1,0 +1,14 @@
+#menu {
+    list-style: none;
+    float: right;
+    /* background-color: #be3144; */
+    
+}
+
+#menu li{
+    display: inline;
+    /* float: right; */
+}
+.navigation{
+    background: #be3144;
+}
